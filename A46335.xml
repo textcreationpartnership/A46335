@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Montanism revived by Philip Hermon, a Quaker cobler, and chief speaker at the Savoy meeting; confuted with some of his antichristian principles and prophecies: to which is added some reasons for my leaving the Quakers. By Clement Joynes.</title>
+            <author>Joynes, Clement.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46335</idno><idno type="EEBO-CITATION">99827344</idno>
+  <idno type="VID">31762</idno>
+  <idno type="EEBO-PROQUEST">2240911326</idno>
+  
+            <idno type="STC">Wing J1160A</idno>
+            <idno type="STC">ESTC R215486</idno>
+            <idno type="PROQUEST">99827344</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827344e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1891:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Montanism revived by Philip Hermon, a Quaker cobler, and chief speaker at the Savoy meeting; confuted with some of his antichristian principles and prophecies: to which is added some reasons for my leaving the Quakers. By Clement Joynes.</title>
+                  <author>Joynes, Clement.</author>
+               </titleStmt>
+               <extent>[2], 14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hermon, Philip --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature --  England --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Montanism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31762:1"/>
+            <p>
+               <hi>Montanism Revived</hi> BY <hi>Philip Hermon,</hi> A Quaker Cobler, And Chief SPEAKER at the SAVOY MEETING; Confuted, with some of his Antichristian Prin<g ref="char:EOLhyphen"/>ciples and Prophecies: To which is added some Reasons for my leaving the <hi>Quakers.</hi>
+            </p>
+            <p>By CLEMENT JOYNES.</p>
+            <q>
+               <bibl>
+                  <hi>St. Pet. II. I.</hi>
+               </bibl>
+               <p>But there were false Prophets amongst the People, even as there shall be false Teachers amongst you, who privily bring in damnable Heresies, even denying the Lord that bought them, and bring upon themselves swift Destruction.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1700.</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:31762:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:31762:3"/>
+            <pb n="1" facs="tcp:31762:3"/>
+            <head>Montanism Revived, by <hi>Philip Hermon,</hi> the Quakering Cobler.</head>
+            <opener>
+               <salute>Christian Reader,</salute>
+            </opener>
+            <p>I Shall not insist upon the Fundamentals of Quakerism at this time, but only give you a tast of the Spirit of one of their chief Teachers, belonging to the Quar<g ref="char:EOLhyphen"/>terly. Meeting at the <hi>Savoy;</hi> desiring of you to judge, whether it be lawful for him to Preach till he is better instructed in the Fun<g ref="char:EOLhyphen"/>damentals of the Christian Religion; and whether it is not the Christian Man's Duty to absent from such, as bring in damnable Do<g ref="char:EOLhyphen"/>ctrine, deceiving, and being deceived.</p>
+            <p>
+               <q>
+                  <hi>Montanius</hi> taught, that when God re<g ref="char:EOLhyphen"/>vealed himself to Man, it was under those great extasies, that they had not the use of their Reason.</q>
+            </p>
+            <p>Divers Bishops, and Fathers of the Church of Christ, in the early and primitive Times, wrote against Montanism, as an Enthusiasti<g ref="char:EOLhyphen"/>cal Spirit, destructive to the Christian Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>And by Permission I shall undertake to prove this Enthusiastical Cobler a Disciple o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Mon<g ref="char:EOLhyphen"/>tanius,</hi>
+               <pb n="2" facs="tcp:31762:4"/>although I believe he is ignorant of what <hi>Montanius</hi> held.</p>
+            <p>First, he pretends that in these Extasies he receiveth Divine Revelations of God, and doth not exercise his Reason, insomuch that he knoweth not the intent of his Revelations, like to his Sister, that Female Poet, that pre<g ref="char:EOLhyphen"/>tends to Divine Revelations, and yet ignorant of the intent of their pretended Revelations, or rather, Diabolical Delusions.</p>
+            <p>Secondly, Their Revelation leaving them puft up with spiritual Pride, exalting them<g ref="char:EOLhyphen"/>selves as it were like to an omniscient God, as his Pell-mell Sister hath been so bold to as<g ref="char:EOLhyphen"/>sert in Print, that none shall hide any thing from she and God.</p>
+            <p>Thirdly, their judging that every whim that is infused in their disturbed Brains, is the Word of God, and yet are not ashamed to de<g ref="char:EOLhyphen"/>ny the Scriptures to be the Word of God, all confused Stuff.</p>
+            <p>I shall not enlarge at this time, upon eve<g ref="char:EOLhyphen"/>ry part of his confused Doctrines, but dispatch, and so proceed, the Word of the Lord as he saith, opened in him, after this manner,
+<q>1. <l>Who is he that giveth thee Life?</l>
+                  <l>I am the Bread of Life.</l>
+               </q>
+               <q>2. <l>If thou be faithful to my Work,</l>
+                  <l>Then will I send thee to the <hi>Turk.</hi>
+                  </l>
+               </q>
+               <q>Mark the <hi>Cobler</hi>'s Commission.)</q>
+               <q>
+                  <pb n="3" facs="tcp:31762:4"/> 3. <l>If thou be faithful to the thing,</l>
+                  <l>Then will I make thee greater than a King.</l>
+               </q>
+            </p>
+            <p>But take notice though he received these Revelations under such an Extasie, that he did not exercise his Reason therein, not knowing the Intentions of them, yet he is puffed up with spiritual Pride from working in a Cob<g ref="char:EOLhyphen"/>ler's Stall, with suppositions to be greater than a King; what, may he act under these Preten<g ref="char:EOLhyphen"/>ces of an impulse, or Motion of the Spirit, for my part, by following his, and other damnable Doctrines and nonsensical Stuff, I have been one of those that have joined my self with that Party, that deny the Lord that bought them, but I have retracted my Errors, and refor<g ref="char:EOLhyphen"/>med my Life, and hope for the time to come, through the Prayers of good Christians, will be ordered according to the Gospel of Jesus Christ.</p>
+            <p>
+               <q>This <hi>Cobler</hi> was heard to pray at <hi>Gutters<g ref="char:EOLhyphen"/>hege</hi> Meeting-house, where several Friends was present, that God would bless the holy Child Jesus.</q> Blush, O Angels, and ye glori<g ref="char:EOLhyphen"/>fied Saints, at the most astonishing Impudence and ignorance of this <hi>Philip Hermon:</hi> What <hi>Philip?</hi> had the holy Child Jesus, the Son of God, the Word of God, him who was cruci<g ref="char:EOLhyphen"/>fied by the <hi>Jews,</hi> whom God hath made both Lord and Christ, God and Man, glorified for ever. Need of thy Intercessions and Medita<g ref="char:EOLhyphen"/>tions for him, lay thy Mouth in the Dust, and
+<pb n="4" facs="tcp:31762:5"/>humble thy self in Ashes, lest the holy Child Je<g ref="char:EOLhyphen"/>sus plead the Cause with you, for robbing him of his Honour.</p>
+            <p>
+               <q>Secondly, thou wast heard to preach in <hi>Barnet</hi> Meeting, that <hi>Zion</hi> was a safe Habi<g ref="char:EOLhyphen"/>tation, a glorious Dwelling-place, and O that all would get into <hi>Zion,</hi> and when thou sattest down, thou arose again, and asserted that the Word of the Lord rose in thee, that <hi>Zion</hi> should come through Judgment;</q> Oh! Contradiction upon Contradiction, and all is fa<g ref="char:EOLhyphen"/>thered upon the blessed holy Spirit. Surely the Sin of Murther is not to be compared unto it. O! what Account will this preaching <hi>Cobler</hi> give to the great God that made him. I am warmly concerned thus to appear, that as my Eorrs have dishonoured God, so my Reforma<g ref="char:EOLhyphen"/>tion might bring Glory and Honour to his re<g ref="char:EOLhyphen"/>nowned Name.</p>
+            <p>
+               <q>Thirdly, thou wast heard to Preath at <hi>Horseydown</hi> Meeting, thus that God had o<g ref="char:EOLhyphen"/>pened his Mysteries to thee, and at this present time made a great Revelation of Gospel mystery after this manner.</q>
+            </p>
+            <p>
+               <q>Friends, the Word arose in my Heart, what is the Gift of God? and I queried within my self, and I reck'ned my Wife, and Health, and Children were the Gifts of God, but I could make no reply; but while I was considering the matter, the Word of the
+<pb n="5" facs="tcp:31762:5"/>Lord rose in me, after this manner, I am the Gift of God.</q>
+            </p>
+            <p>Now consider, if he had been a Preacher for about Two Years, and yet knew not the Gift of God, I leave it to your Judgment to consi<g ref="char:EOLhyphen"/>der what he preached upon. But let me in<g ref="char:EOLhyphen"/>form the Reader, that according to my small Experience of the Work of God, since I left the <hi>Quakers,</hi> I cannot conceive how he could witness the real Work of Conversion, with<g ref="char:EOLhyphen"/>out the Knowledge of Jesus Christ, to be the Gift of God, I may make this reply to him; <hi>Philip,</hi> if thou hadst known the Gift of God, then thou wouldst not run before the Gift, for out of thy own Mouth I'll judge thee, for thou art a Thief. I affirm, thou stol'st the Words of the Prophets, and saith, thus saith the Lord, and yet ignorant of the Gift of God; and I affirm again, that thou art a Thief by craft; thou servedst thy time to a Baker, and stole the Art of cobling Shoes, and afterwards for hope of Advancement, tur<g ref="char:EOLhyphen"/>ned a nonsensical preaching <hi>Quaker.</hi>
+            </p>
+            <p>Again, I affirm that thou knowest in thy Conscience, that Baptism, and the Lord's Supper, is an Institution of Jesus: For when I was sunk in Quakerism, I was angry with him for asserting that, <hi>Matth. c.</hi> 28.19. <hi>verse,</hi> was meant of Water, I asserted that it was spiri<g ref="char:EOLhyphen"/>tual and not outward Water: But he asserted
+<pb n="6" facs="tcp:31762:6"/>it was meant of Water, his Reasons are as follow.</p>
+            <p>
+               <q>First, the Apostles were wiser Men then we are and would not act contrary to the Com<g ref="char:EOLhyphen"/>mission given, if the Apostles had not under<g ref="char:EOLhyphen"/>stood that the Commission contained Water, they would not obey it, but the Apo<g ref="char:EOLhyphen"/>stles understood it so, and practised so, and so were obedient to their Commission.</q>
+            </p>
+            <p>
+               <q>But his Reasons are, that the Lord's Sup<g ref="char:EOLhyphen"/>per, and Water Baptism, are not now to be perpetuated; because when he was think<g ref="char:EOLhyphen"/>ing of these things, it was opened to him that he should be obedient to what he knew, and when they were commanded him, he would practise them; if he practise it not, judge ye, if he is not guilty of Disobedience.</q> The Question that <hi>Gilbert Latecy</hi> asked thee, who made thee a Minister of Christ is perti<g ref="char:EOLhyphen"/>nent to the matter? I must confess Confusion is amongst you, but I may reply if <hi>Gil. L.</hi> would not give you Ordination, I suppose, and am satisfied the Second Days-Meeting hath; but you pretty well fitted <hi>G. L.</hi> for it, for you told me that you looke upon <hi>G. L.</hi> to be no more a Minister then the back of your Hand, O rare <hi>Cobler!</hi>
+            </p>
+            <p>
+               <q>Indeed, <hi>W. Mather</hi> hath spoken plainly in his Switch for the Snake, that there is no hopes for Reformation of Doctrine amongst you,
+<pb n="7" facs="tcp:31762:6"/>until the Camp of your ignorant Ministry be purged: Where must you be <hi>Philip?</hi>
+               </q>
+            </p>
+            <div type="part">
+               <head>Concerning his Prophesie.</head>
+               <p>A Man need have the Courage of little <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> when he encountered with great <hi>Goliah,</hi> to discourse concerning Religion with a preach<g ref="char:EOLhyphen"/>ing Quaker: <hi>(Philip)</hi> had been at Meeting one Week Day, preaching and coming where I was, (one would have thought, he was in a sweet composed Temper) we began to dis<g ref="char:EOLhyphen"/>course concerning <hi>G. Keith,</hi> which was the first time that I spake in the Praise of his Do<g ref="char:EOLhyphen"/>ctrine, concerning the crucified Jesus. So in<g ref="char:EOLhyphen"/>volved was I in Quakerisms, but no sooner was this Prophet entered into Discourse, but he said that the first Year that he witness the Gift (of preaching) it was opened to him, that the Lord would bring <hi>G. K.</hi> to nothing, and all that joined with him he would judge, what, saith I <hi>Philip,</hi> for believing in the cruci<g ref="char:EOLhyphen"/>fied Jesus? yea saith he, let it be what it will, Christ is as much worshipped and honoured, where he is not named, as where he is (and so <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onsequentially where they do not believe in <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im) Well, sometime afterwards this Prophet <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame and told me, he did not judge me, I <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sked him who he judged, he replied, the <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isputer of the World, I asked him, who the <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isputer of the World was, he replied, the
+<pb n="8" facs="tcp:31762:7"/>Devil: Thus ye may see, when they are put to it, they may see cause otherwise to word the Matter, and yet their Intentions may be the same.</p>
+               <p>Secondly, as for his Prophecy, that I should confess, that I had departed from the Truth before I died (because I believed the Doctrine of Christ crucified, taught by <hi>G. K.</hi>) which I was a Stranger too, and by this should I know that the Lord had spoken by him.) <hi>Isa.</hi> 44.24, 25. The false Prophets are to be stoned to Death for prophaning his name.</p>
+               <p>Thirdly, his Prophecy, <hi>Sept.</hi> the 23. 1700. That the Lord would lay me as low as <hi>Sodom</hi> (that is, as the lowest Hell) If he had the Keys of Hell I should be afraid of him. Report say they, and we will report, my supposed Friends, how have they waited for my halting; but good old <hi>Jacob</hi>'s Staff is strong enough for me to lean on; to speak nothing concerning his carnal Knowledge of God, as imagining that he was such a one as himself, as he told me the other Day, that God the Father had a Body, because <hi>Moses</hi> saw his back Parts; Oh brave <hi>Muggleto<g ref="char:EOLhyphen"/>nian!</hi> and his imagining that the Body of Christ was all pure Holiness, and not of the Virgin <hi>Mary.</hi>
+               </p>
+               <p>I shall not expose him much farther, bu<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abundance more I could say of him; but th<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> let him except for the present to abate h<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:31762:7"/>Pride. I don't question, but in a short time by his preaching he will leap out of the Stall into a Shoemakers Shop, if he knows but how to manage it, if his cobling Trade fail him. I'll help him (or his Friends may) to be a Pedlar in that great Day, that <hi>Stephen Smith</hi> speaks of, in his Trumpet sounding to Persecutors, p. 139. <q>Come Persecutors, Awake, Awake, hearken what a dreadful Noise is amongst the Pots, Kettles, Skillets, Frying-pans, Dripping-pans, Pewter Dishes, Flaggons; Chamber-pots, Beds, Cloaths, Corn, Hogs, Horses, Butter, Cheese, Bacon, and all sorts of Com<g ref="char:EOLhyphen"/>modities, Shoe-Leather, and abundance of other things too long to name.</q> Come <hi>Philip,</hi> when this great Day comes, then you may come to your Throne.</p>
+               <p>Some Reasons for my Leaving of the <hi>Quakers</hi> are as follow, notwithstanding I could give abundance more, but think it not material to trouble the Reader with a multiplicity, seeing these few are material, against the very Foun<g ref="char:EOLhyphen"/>dation of the <hi>Christian Religion;</hi> as I could also give many hundred of Quotations out of their several Writers, being as so many Proofs of these and other their Errors and Antichristian Principles, <hi>viz.</hi>
+               </p>
+               <p n="1">1. Their Denial of the Doctrine of the Holy Trinity.</p>
+               <p n="2">2. The Blood of Christ outwardly shed, undervalued by the <hi>Quakers.</hi>
+               </p>
+               <pb facs="tcp:31762:8"/>
+               <pb facs="tcp:31762:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:31762:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:31762:9"/>
+               <p n="3">
+                  <pb n="10" facs="tcp:31762:10"/> 3. God and Christ in Heaven.</p>
+               <p n="4">4. Justification by the Righteousness of Christ.</p>
+               <p n="5">5. Their Equality with God.</p>
+               <p n="6">6. The Death and Sufferings of Christ.</p>
+               <p n="7">7. The Resurrection of the Body.</p>
+               <p n="8">8. <hi>Jesus</hi> of <hi>Nazareth,</hi> denied to be the Son of God.</p>
+               <p n="9">9. The Holy Scriptures.</p>
+               <p n="10">10. The Sacraments of <hi>Baptism</hi> and the <hi>Lords Supper.</hi>
+               </p>
+               <p n="11">11. They call all false Ministers that Preach Faith in Christ without.</p>
+               <p n="12">12. Their Blasphemous Adoratious, given to <hi>George Fox,</hi> and vindicated by other <hi>Qua<g ref="char:EOLhyphen"/>kers.</hi>
+               </p>
+               <p n="13">13. The moral Law and Ten Command<g ref="char:EOLhyphen"/>ments doing servile Work on the Lords Day.</p>
+               <p n="14">14. In this present year 1700. I went to <hi>Geo. Whitehead,</hi> the Head leading <hi>Quaker,</hi> in <hi>London,</hi> and asked him a simple Question, concerning my Salvation, the Question was thus, <hi>Geo. Whitehead,</hi> I desire thee to inform me upon what my Salvation doth depend, after some <hi>pro</hi> and <hi>con,</hi> he gave me an answer in these following words, <hi>Repent speedily, or else the Lord will confound thee, and bring thee to naught,</hi> and this is the word of the Lord to thee, I desire you to take notice that the said <hi>Geo. Whitehead,</hi> and three more <hi>Quaker</hi> Speakers, Judged the glorious Trinity; to the Pit and the
+<pb n="11" facs="tcp:31762:10"/>Lake, if any Question the truth of it, I offer to produce the Book: Those that are desirous to be farther informed, I refer them to a Little book, called the <hi>Quaker</hi> Creed, containing 13. Articles of their antichristian Doctrine, Sold at Mr. <hi>Gwillam,</hi> Bookseller, in <hi>Bishop gate-street.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTCRIPT.</head>
+            <p>I Hope I have sufficiently detexed Monta<g ref="char:EOLhyphen"/>nism in this <hi>Cobler,</hi> and Mugglet onian, in his asserting that God had a Body, because <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> saw his Back parts, which is a blasphemous Contradiction of the first Article of the Church of <hi>England.</hi>
+               <q>Which plainly asserts that God is without Body, Parts, or Passions, and contradicts the saying of our ever blessed Je<g ref="char:EOLhyphen"/>sus, that his Father is a Spirit.</q>
+            </p>
+            <p>If he be free from Socinism, by praying for the holy Child Jesus I leave the Reader to judge, if he believeth not that Christ is a Creature, what reasons had he to think that the holy Child Jesus had need of his Prayers.</p>
+            <p>Take notice that every Whim that cometh into his, or their Brain, they presently conceive it is an opening from the Lord.</p>
+            <p>By what Rule must I try him by, if by his Brethren, then he will assert they are not in<g ref="char:EOLhyphen"/>spired as he is, as he hath often said in my hear<g ref="char:EOLhyphen"/>ing, that <hi>G. Whitehead</hi> is a dry Preacher, and
+<pb n="12" facs="tcp:31762:11"/>that <hi>G. W.</hi> could preach when he had a mind to it, which doth imply that <hi>G. W.</hi> often speaks by school Craft, and not always by immediate In<g ref="char:EOLhyphen"/>spiration as he doth. But I desire that he might be tryed by Scriptures, and if his preaching be concurring there, will I leave the Reader to judge.</p>
+            <p>In <hi>Long-Acre</hi> Meeting he was heard to preach after this manner, Friends, I think <hi>Joseph</hi> had not the Law, I think the Law was not writ before his time, to the best of my Remembrance he had not the Law,) Oh brave Infallibility.</p>
+            <p>O my Country-men what a Day is come upon us, such a Day that was prophesied off. Many shall run and say, thus saith the Lord, and the Lord hath declared that he never sent them.</p>
+            <p>He confessed in my Brother's hearing that the Body of Christ partook not of the Substance of the Virgin, and said it was an opening from the Lord. I shall proceed to shew that this Er<g ref="char:EOLhyphen"/>ror, and Heresie, was broached and condemned in the Days of the Apostles, this is it which St. <hi>John</hi> reprehends, 1 <hi>John</hi> 4.3. Every Spirit that confesseth not that Jesus Christ is come into the Flesh, <hi>&amp;c.</hi> or as <hi>Socrates</hi> saith, evey Spirit that separates Jesus from God, is not of God, this was wrote in the ancient Copies, and he observes that this Text and other parts of this Epistle was altered by those that would sepa<g ref="char:EOLhyphen"/>rate the Divinity of Christ from his Humanity.
+<pb n="13" facs="tcp:31762:11"/>Now this Spirit that openeth this Doctrine that the Body of Christ partook not of the Vir<g ref="char:EOLhyphen"/>gin is a false Spirit, and it's evident that this Spirit that opened it in the <hi>Cobler,</hi> and <hi>G. W.</hi> is the Spirit of Antichrist. For <hi>G. W.</hi> in his Son of Perdition revealed, hath denied that there is Two distinct Natures in the Person of Christ, and denies that the humane Nature is Christ, or the Son of God by temporal Generation, and denieth that the Soul of Christ is a humane Soul: The Baptist <hi>Jos. Wright,</hi> declared that the Spirit of Holiness is the Son of God by eternal Generation, and that the humane Nature also of that Person is the Son of God by temporal Generation, yet there are not Two Christs, but one, <hi>&amp;c.</hi> But. <hi>G. W.</hi> plainly says in answer to the Baptist, did ever the Apostles preach such a Christ as this, either there must be Two Christs in one Person, or else the humane and divine are both one, and this was his Faith in 1661.</p>
+            <p>By which you that believe in the true Jesus may see what a necessity there is to receive the Counsel of <hi>Ignatius</hi> that glorious Martyr of Christ, Bishop of Antioch who flourish'd about the Year 70, after the Birth of Christ was Disciple to St. <hi>John</hi> the Evangelist writes thus in the Epistle to the <hi>Trallians.</hi>
+               <q>Stop your Ears therefore when any shall speak to you without Christ Jesus.</q> Even Jesus of <hi>Naze<g ref="char:EOLhyphen"/>roth</hi> (not the Light within) as some Atheists
+<pb n="14" facs="tcp:31762:12"/>that is to say Infidels, do say, that he only ap<g ref="char:EOLhyphen"/>pear'd to be a Man, but took not a Body in Reality, and in Appearance only seemed to suf<g ref="char:EOLhyphen"/>fer and dye. Now I shall prove that this <hi>Cob<g ref="char:EOLhyphen"/>ler,</hi> by <hi>Ignatius,</hi> is called an Infidel, or Atheist, for imagining and affirming that Christ par<g ref="char:EOLhyphen"/>took not of the Substance of the Virgin, and most consequently be an imagined Christ, as some have been so presumptuous to affirm. Now the God and Father of our Lord Jesus Christ bring into the Way of Truth all that have erred and are deceived: And have Mercy upon all <hi>Men.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="authors_challenge">
+            <pb facs="tcp:31762:12"/>
+            <head>Advertisement.</head>
+            <p>WHEREAS I <hi>Clement Joynes,</hi> of the Parish of St. <hi>Clement Danes,</hi> having printed a little Paper, entituled, <hi>Montanism Reviv'd by</hi> Phi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Hermon, <hi>a</hi> Quakering Cobler, <hi>and chief Speaker of</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Savoy <hi>Meeting:</hi> Do hereby Declare, That it was <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t writ in my Passion and Prejudice, as they Jesuit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e would have had me said; and to that end brought <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e a Paper, writ by one of the Quakers, for to in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>p me, that thereby I should clear the whole Body <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Quakers, from what I had Charged them in <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y said Book— See a new Book of mine, entituled, <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ilip Hermon's Last Shift,</hi> and the learned <hi>P. Hermon,</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cobler, Sermons, printed by another hand, to be <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld at Mr. <hi>Ropers,</hi> at the <hi>Black Boy</hi> over against St. <hi>Dun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n's</hi> Church; and at Mr. <hi>Nutts,</hi> near <hi>Stationers Hall.</hi>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d whereas the said <hi>P. Hermon</hi> hath printed a little <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ce of Paper, to shew to the World that he is Soun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the Faith than his Brethren <hi>G. W.</hi> and <hi>W. Pen,</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sounder than he was; This, I Declare, that he <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n Imposter, a Blasphemer, and a Lyer, and that that <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er was printed without my Consent, Approbation <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Knowledge: And hereby I do Charge him to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Guilty of all that I have Charged him of in my <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Book, and hereby do Challenge the said <hi>Philip <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mon,</hi> and the Quakers, to meet me before any 12, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>4 Sober Men of the Church of <hi>England,</hi> Presby<g ref="char:EOLhyphen"/>terian,</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:31762:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
